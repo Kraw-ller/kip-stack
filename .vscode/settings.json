@@ -1,0 +1,9 @@
+{
+    "makefile.configureOnOpen": false,
+    "files.associations": {
+        "atomic": "c",
+        "ostream": "c",
+        "if_ether.h": "c",
+        "if_tun.h": "c"
+    }
+}
