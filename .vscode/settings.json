@@ -5,5 +5,7 @@
         "ostream": "c",
         "if_ether.h": "c",
         "if_tun.h": "c"
-    }
+    },
+    "C_Cpp.default.compilerPath": "/usr/bin/gcc",
+    "C_Cpp.errorSquiggles": "enabled"
 }
